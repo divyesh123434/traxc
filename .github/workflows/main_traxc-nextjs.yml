@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Traxc-nextjs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49F2379379A44AF6AE87C75DAC41D7A8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7509F716A4904651A517206D0CE7A910 }}
           package: .
